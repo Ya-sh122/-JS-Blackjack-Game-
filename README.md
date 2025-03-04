@@ -1,1 +1,1 @@
-Is a Blackjack game with the help of html,css,js 
+Is a Blackjack Game with the help of HTML, CSS, JS  
